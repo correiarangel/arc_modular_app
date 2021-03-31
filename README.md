@@ -3,7 +3,7 @@
 # Descrição basica:
 -Projeto com base em semana Slidy Modulas Fluttrrando
 -Com conseito Clean architecture minimizando ao maximo o acoplamento  
--Conssumindo Api Pokemon com Dio
+-Consumindo Api Pokemon com Dio
 -Teste unitarios
 
 A new Flutter project.
