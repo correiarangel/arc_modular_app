@@ -1,6 +1,8 @@
-import 'package:arc_modular_app/app/shared/interface/pake_repository_interface.dart';
-import 'package:arc_modular_app/app/shared/model/pokemon_model.dart';
+
 import 'package:dio/dio.dart';
+
+import '../interface/pake_repository_interface.dart';
+import '../model/pokemon_model.dart';
 
 class PokeRepository implements IPokeRepository {
   final Dio dio;
