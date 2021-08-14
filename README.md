@@ -1,12 +1,11 @@
 # arc_modular_app
 
 # Descrição basica:
+
 -Projeto com base em semana Slidy Modulas Fluttrrando
 -Com conseito Clean architecture minimizando ao maximo o acoplamento  
 -Consumindo Api Pokemon com Dio
 -Teste unitarios
-
-A new Flutter project.
 
 ## Getting Started
 
